@@ -6,8 +6,8 @@
 I am a passionate developer with a keen interest in **Web Development and Android Building**. I love working on **Web based projects and with the touch of Android Developement**.
 
 - 🔭 I’m currently working on: **2 Web Based Projects and One Android Building Project** 
-- 🌱 I’m currently exploring: **Python, Rust, React, Tailwind CSS**
-- 💬 Ask me about: **[HTML, CSS, .js and Bash]**
+- 🌱 I’m currently exploring: **Python, Rust, React, Tailwind CSS.**
+- 💬 Ask me about: **HTML, CSS, .js and Bash.**
 - 📫 How to reach me: Email: shitijhalder4@gmail.com or via Instagram [@shitijnotop](https://www.instagram.com/shitijnotop) and Telegram [@shitijnotop](https://t.me/shitijnotop)
 
 ## My Current Working Projects
@@ -30,6 +30,8 @@ It's a personal website of mine where I show my things to the world, my photogra
 ## GitHub Stats
 ![Shitij Halder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShitijHalder&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShitijHalder&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShitijHalder&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShitijHalder&theme=radical)
 
 ## Recent Activity
 <!--START_SECTION:activity-->
