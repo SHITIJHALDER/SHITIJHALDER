@@ -14,7 +14,7 @@ I am a passionate developer with a keen interest in **Web Development and Androi
 ### [**onlyforherforever.github.io**](https://onlyforherforever.github.io)
 A website designed to add your stories for the world to see and embrace it. It's about writing about your feelings with the memories of her.
 
-### [**shitijhalder.github.io**](https://github.com/ShitijHalder/shitijhalder.github.io)
+### [**shitijhalder.github.io**](https://shitijhalder.github.io)
 It's a personal website of mine where I show my things to the world, my photography, my writing, and more!
 
 ### Android Project for Realme Narzo 30 (Codename: salaa)
