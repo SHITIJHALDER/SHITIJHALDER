@@ -11,7 +11,7 @@ I am a passionate developer with a keen interest in **Web Development and Androi
 - 📫 How to reach me: Email: shitijhalder4@gmail.com or via Instagram [@shitijnotop](https://www.instagram.com/shitijnotop) and Telegram [@shitijnotop](https://t.me/shitijnotop)
 
 ## My Current Working Projects
-### [**onlyforherforever.github.io**](https://github.com/onlyforherforever/onlyforherforever.github.io)
+### [**onlyforherforever.github.io**](https://onlyforherforever.github.io)
 A website designed to add your stories for the world to see and embrace it. It's about writing about your feelings with the memories of her.
 
 ### [**shitijhalder.github.io**](https://github.com/ShitijHalder/shitijhalder.github.io)
